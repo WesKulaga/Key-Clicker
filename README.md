@@ -10,6 +10,11 @@ Key Clicker is a Python GUI application built using Tkinter that allows users to
 - Configure the key or mouse button, as well as the interval between actions.
 - Start and stop the automation process with ease.
 
+## Prerequisites
+
+- Python 9.0+
+- Type this into a command prompt: "pip install pynput"
+
 ## How To Download
 
 1. Go to the [Releases](https://github.com/WesKulaga/Key-Clicker/releases) section of this repository.
@@ -28,10 +33,6 @@ Note: Make sure to include any supporting files (e.g., `arrow.ico`) in the same 
 - Choose an interval to press the key/mouse in milliseconds
 - Press the "Start" button to begin the program
 * Pressing enter will start/stop the program, even if you are in another program
-
-## Prerequisites
-
-- Python 9.0+
 
 ## Contact
 
