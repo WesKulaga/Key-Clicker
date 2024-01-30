@@ -21,8 +21,8 @@ Key Clicker is a Python GUI application built using Tkinter that allows users to
 2. Download the latest release (ZIP file).
 3. Extract the contents of the ZIP file.
 4. Open the extracted folder.
-5. Run the `key_clicker.exe` executable.
-6. The GUI window will appear, allowing you to interact with the application without needing to open a console.
+5. Run the `key_clicker.py` file.
+6. The GUI window will appear, allowing you to interact with the application.
 
 Note: Make sure to include any supporting files (e.g., `arrow.ico`) in the same directory as the executable.
 
