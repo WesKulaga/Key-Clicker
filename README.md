@@ -36,5 +36,4 @@ Note: Make sure to include any supporting files (e.g., `arrow.ico`) in the same 
 
 ## Contact
 
-- For any questions or feedback, feel free to contact the project owner:
-    Email: wesleykulaga1@gmail.com
+- For any questions or feedback, feel free to contact the project owner: wesleykulaga1@gmail.com
