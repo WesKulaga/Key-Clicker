@@ -12,7 +12,7 @@ Key Clicker is a Python GUI application built using Tkinter that allows users to
 
 ## How To Download
 
-1. Go to the [Releases](https://github.com/WesKulaga/Key-Clicker) section of this repository.
+1. Go to the [Releases](https://github.com/WesKulaga/Key-Clicker/releases) section of this repository.
 2. Download the latest release (ZIP file).
 3. Extract the contents of the ZIP file.
 4. Open the extracted folder.
