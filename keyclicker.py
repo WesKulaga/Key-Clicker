@@ -147,9 +147,6 @@ class HotkeysApp:
             self.stop_event.clear()  # Clear the stop event flag
             self.listener_thread.start()
 
-            # Add a 3-second delay
-            time.sleep(3)
-
             self.running = True
             self.start_button.config(state=tk.DISABLED)
             self.stop_button.config(state=tk.NORMAL)
